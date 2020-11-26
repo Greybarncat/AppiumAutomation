@@ -6,7 +6,12 @@ public class MainClassTest extends MainClass
     @Test
     public void testLocalNumber ()
     {
-        Assert.assertTrue("The number isn't 14",getLocalNumber() == 14);
+        Assert.assertTrue("The local number =! 14",getLocalNumber() == 14);
     }
 
+    @Test
+    public void testGetClassNumber ()
+    {
+        Assert.assertTrue("The class number <= 45",getClassNumber() > 45);
+    }
 }

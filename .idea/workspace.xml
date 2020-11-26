@@ -29,7 +29,27 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MainClassTest.testGetClassNumber">
+    <configuration name="MainClassTest.testGetClassNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="testGetClassNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.testGetNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="testGetNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClassTest.testLocalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="appiumAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -42,6 +62,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainClassTest.testGetClassNumber" />
+        <item itemvalue="JUnit.MainClassTest.testGetNumber" />
         <item itemvalue="JUnit.MainClassTest.testLocalNumber" />
       </list>
     </recent_temporary>
@@ -58,6 +80,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1606412785321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606412785321" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1606412785321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606412785321" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1606412785320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606412785320" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1606412785321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606412785321" />
     <state x="1144" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606409274742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
